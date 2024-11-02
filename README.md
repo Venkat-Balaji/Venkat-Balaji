@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkat Balaji B</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate Backend developer - Python</h3>
 
 - 🔭 I’m currently working on [AI - Recruit](https://github.com/Venkat-Balaji/recruit-app)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/venkat balaji b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat balaji b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venkat-balaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat balaji b" height="30" width="40" /></a>
 <a href="https://instagram.com/vennkyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vennkyy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/venkatbasker2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkatbasker2" height="30" width="40" /></a>
 </p>

@@ -10,7 +10,7 @@
 - 📫 How to reach me **venkatbalaji4115@gmail.com**
 
 - ⚡ Fun fact ~
--  `      **I can teach a computer to recognize my face better than most people can!**
+            **I can teach a computer to recognize my face better than most people can!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

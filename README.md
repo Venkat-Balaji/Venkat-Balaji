@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venky </h1>
 <h3 align="center">A passionate Backend developer - Python</h3>
 
-- 🔭 I’m currently working on [AI - Recruit](https://github.com/Venkat-Balaji/recruit-app)
 
-- 🌱 I’m currently learning **TensorFlow , PyTorch , Scikit-learn**
 
 - 💬 Ask me about **Machine Learning , Python , GenAI Integration**
 

@@ -22,6 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat-balaji&show_icons=true&locale=en&layout=compact" alt="venkat-balaji" /></p>
 
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/venkatbasker2?theme=wtf&font=Thasadith)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat-balaji&show_icons=true&locale=en" alt="venkat-balaji" /></p>

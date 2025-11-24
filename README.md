@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venky </h1>
-<h3 align="center">A passionate Full-Stack developer - Python</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
 
 
